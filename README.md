@@ -2,6 +2,8 @@
 
 ある程度学習が済んだら何か作ってみる。
 
+[学習メモ](https://qiita.com/Hiro710/items/559fdcc9851de3426e4e)
+
 php_learning.phpはPHPの基本形を示す。
 
 PHPのスクリプトファイルをHTMLファイルと分けて扱いたい時は、main.phpを参照。
